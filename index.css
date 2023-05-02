@@ -1,8 +1,8 @@
 nav{
-    font-family:"宋体",Arial;
-    font-size: 12px;
-    background-color: #39c;
-    width: 780px;
+    font-family:"楷体",Arial;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    width:auto;
 }
 
 nav ul{
@@ -18,7 +18,7 @@ nav li{
 
 nav a{
     font-weight: bold;
-    color: #fff;
+    color: #000000;
     text-decoration: none;
     
 }
